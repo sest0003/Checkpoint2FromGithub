@@ -1,0 +1,9 @@
+https://github.com/sest0003/GitCheckpoint2.git
+
+https://github.com/sest0003/Checkpoint2FromGithub.git
+
+Svar:
+
+1.git log
+2. git status
+3. git init
